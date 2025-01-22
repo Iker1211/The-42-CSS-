@@ -12,3 +12,8 @@
 --font-family: 'Arial', sans-serif; /* Revisar */
 --line-height: 1.5;
 }
+
+* {
+    overflow-wrap: break-word;
+    hyphens: auto;
+}
