@@ -9,7 +9,7 @@
 --font-size-md: clamp(0.625rem, 0.305vw + 0.55rem, 0.79rem); /* Half of the original values */
 --font-size-lg: clamp(0.975rem, 0.625vw + 0.82rem, 1.32rem); /* Increased by a quarter */
 --font-size-xl: clamp(1.525rem, 1.4875vw + 1.15625rem, 2.34375rem); /* Half of the original values */
---font-family: 'Arial', sans-serif; /* Revisar */
+--system-ui: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; /*Revisar */
 --line-height: 1.5;
 }
 
